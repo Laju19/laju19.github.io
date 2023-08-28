@@ -21,7 +21,7 @@ const App = () => {
         <Blog />
         <Footer />
 
-    </div>
+    </div> 
   )
 }
 
