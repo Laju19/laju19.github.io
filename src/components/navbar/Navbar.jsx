@@ -1,5 +1,5 @@
 import React from 'react';
-import {RiMenu3Line, RiCLoseLin} from 'react-icons';
+//import {RiMenu3Line, RiCLoseLin} from 'react-icons';
 import logo from '../../assets/logo.svg';
 import './navbar.css';
 
